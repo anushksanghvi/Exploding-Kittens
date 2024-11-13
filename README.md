@@ -30,21 +30,14 @@ There will be a button to start the game. When the game is started there will be
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Deepeshgodhwani/Exploding-kittens) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/anushksanghvi/Exploding-Kittens.git) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/Deepeshgodhwani/Exploding-kittens.git
+# git clone  https://github.com/anushksanghvi/Exploding-Kittens.git
 ```
-
-+ Open terminal on your workspace with
-
-```
-cd /home/workspace/Exploding-kitten
-```
-
 
 ## Install
 
@@ -64,13 +57,6 @@ To confirm that you have npm installed you can run this command in your terminal
 
 ```
 npm -v
-```
-
-To confirm that you have MongoDB installed you can run this command in your terminal:
-
-
-```
-mongo -v
 ```
 
 
@@ -105,17 +91,3 @@ To run this project, you will need to add the following environment variables to
 
 <br/>
 
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Deepesh_Godhwani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeepesh-godhwani-4269531b0)
-[![Twitter](https://img.shields.io/badge/Deepesh_Godhwani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Deepeshgodhwani)
-
-© 2023 Deepesh Godhwani
-
-## Show your support
-
-Give a ⭐️ if you like this project!	
